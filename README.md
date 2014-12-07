@@ -3,6 +3,10 @@ YZHorizontalItemsView
 
 A view made up of a few views. Think of it as an 'unscrollable' horizontal collection view.
 
+![Screenshot 1](https://raw.githubusercontent.com/yichizhang/YZHorizontalItemsView/master/Screenshots/screen1.png)
+![Screenshot 2](https://raw.githubusercontent.com/yichizhang/YZHorizontalItemsView/master/Screenshots/screen2.png)
+![Screenshot 3](https://raw.githubusercontent.com/yichizhang/YZHorizontalItemsView/master/Screenshots/screen3.png)
+
 ##How to integrate it into my project?
 
 Use cocoapods to add YZHorizontalItemsView.
